@@ -101,8 +101,10 @@ feed_show_tags: true
 # Add a search button to the navbar
 post_search: false
 
+baseurl: "https://emirdemirovic.com"
+
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "combinatorial optimisation,combinatorial optimization,emir,demirovic,TU Delft"
 
 # --- Colours / background image --- #
 
