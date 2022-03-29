@@ -1,8 +1,7 @@
 ---
 layout: home
 title: Dr. Emir Demirović
-subtitle: Assistant Professor of Computer Science\
-TU Delft (The Netherlands)
+subtitle: Assistant Professor of Computer Science TU Delft (The Netherlands)
 ---
 
 # News
