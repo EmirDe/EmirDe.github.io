@@ -23,7 +23,7 @@ subtitle: Assistant Professor of Computer Science TU Delft (The Netherlands)
 
 # Open positions
 
-Are you a TU Delft student looking for a side-job (one day per week or over the summer)? Can you come up with algorithmic solutions and implement them efficiently in C++? Get in touch!
+Are you a TU Delft student looking for a side-job, i.e., one day per week during the semester or a few days a week over the summer break? Can you come up with algorithmic solutions and implement them efficiently in C++? Get in touch!
 
 # About Me
 
@@ -50,7 +50,7 @@ My work can be partitioned into several research directions, all revolving aroun
 * Koos van der Linden, combinatorial optimisation for machine learning, collaboration with Dr Mathijs de Weerdt
 * Jesse Mulderij, combinatorial optimisation for train shunting, collaboration with Dr Mathijs de Weerdt and NS (Dutch railways)
 
-# Bachelor and master students
+# Master students
 
 * Bob Dorland, scheduling for quantum computing, collaboration with QuTech - Bart van der Vecht and Professor Stephanie Wehner
 * Jeroen van Dijk, SAT for multi-agent path finding
@@ -58,7 +58,8 @@ My work can be partitioned into several research directions, all revolving aroun
 * Isha Dijcks, Automating generation of puzzles
 * Tim Yue, Decision trees with constraints, collaboration with Loschmidt Laboratories - Dr Stas Mazurenko
 * Andrea Nardi, Algorithms for clique separators
-* Zhiyi Chen, Explainable algorithm selection
+* Zhiyi Chen (bachelor honours programme), Explainable algorithm selection
+* Heqi Wang, Unravelling the decision making process of black box neural networks for traffic predictions, collaboration with Dr Panchamy Krishnakumari
 
 # Graduated master students
 
