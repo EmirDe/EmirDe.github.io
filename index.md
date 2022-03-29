@@ -49,6 +49,7 @@ My work can be partitioned into several research directions, all revolving aroun
 
 * Koos van der Linden, combinatorial optimisation for machine learning, collaboration with Dr Mathijs de Weerdt
 * Jesse Mulderij, combinatorial optimisation for train shunting, collaboration with Dr Mathijs de Weerdt and NS (Dutch railways)
+* Two positions with the XAIT lab - to be filled!
 
 # Master students
 
