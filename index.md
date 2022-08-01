@@ -6,6 +6,7 @@ subtitle: Assistant Professor of Computer Science TU Delft (The Netherlands)
 
 # News
 
+* Jul'22: My NWO M1 project proposal has been accepted by NWO (Dutch funding agency). The project is in the area of Satisfiability and constraint programming.
 * Nov'21: Our [XAIT](https://www.tudelft.nl/ai/xait-lab?languageSelect=UK&searchCriteria[0][key]=keywords&searchCriteria[0][values][]=XAITLab&searchCriteria[1][key]=Resultsperpage&searchCriteria[1][values][]=50) lab on Explainable AI/ML/Optimisation in Civil Engineering has been funded! We are in the process of hiring four PhD students.
 * Oct'21: Co-chaired the workshop on [Constraint Modelling and Reformulation (ModRef'21)](https://modref.github.io/ModRef2021.html) together with Dr Graeme Gange.
 * Sep'21: Released [MurTree code](https://bitbucket.org/EmirD/murtree) for constructing optimal decision trees. Read our [JMLR paper](https://jmlr.org/papers/v23/20-520.html) for details.
@@ -22,6 +23,8 @@ subtitle: Assistant Professor of Computer Science TU Delft (The Netherlands)
 
 
 # Open positions
+
+We have a PhD position on explainable combinatorial optimisation. Get in touch!
 
 Are you a TU Delft student looking for a side-job, i.e., one day per week during the semester or a few days a week over the summer break? Can you come up with algorithmic solutions and implement them efficiently in C++? Get in touch!
 
