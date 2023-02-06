@@ -6,8 +6,10 @@ subtitle: Assistant Professor of Computer Science TU Delft (The Netherlands)
 
 # Recent News
 
+* Feb'23: I have been honoured with an invitation for the "Satisfiability" programme at the Simons Institute for the Theory of Computing at UC Berkeley!
 * Jan'23: I am now permanent (tenure) faculty at TU Delft!
 * Dec'22: My project on scheduling for quantum computing has been accepted as part of a NWO Zwaartekracht (Quantum Software Consortium)! Hiring a PhD student.
+* Aug'22: I am delighted to have been invited to the "SAT Encodings and Beyond" Dagstuhl Seminar taking place in Jun'23!
 * Jul'22: My NWO M1 project proposal has been accepted by NWO (Dutch funding agency)! The project is in the area of Satisfiability and constraint programming.
 * Nov'21: Our [XAIT](https://www.tudelft.nl/ai/xait-lab?languageSelect=UK&searchCriteria[0][key]=keywords&searchCriteria[0][values][]=XAITLab&searchCriteria[1][key]=Resultsperpage&searchCriteria[1][values][]=50) lab on Explainable AI/ML/Optimisation in Civil Engineering has been funded!
 * Oct'21: Co-chaired the workshop on [Constraint Modelling and Reformulation (ModRef'21)](https://modref.github.io/ModRef2021.html) together with Dr Graeme Gange.
