@@ -6,7 +6,7 @@ subtitle: Assistant Professor of Computer Science TU Delft (The Netherlands)
 
 # Recent News
 
-* Feb'23: I have been honoured with an invitation for the "Satisfiability" programme at the Simons Institute for the Theory of Computing at UC Berkeley!
+* Feb'23: I honoured by the invitation to the "Satisfiability" programme at the Simons Institute for the Theory of Computing at UC Berkeley!
 * Jan'23: I am now permanent (tenure) faculty at TU Delft!
 * Dec'22: My project on scheduling for quantum computing has been accepted as part of a NWO Zwaartekracht (Quantum Software Consortium)! Hiring a PhD student.
 * Aug'22: I am delighted to have been invited to the "SAT Encodings and Beyond" Dagstuhl Seminar taking place in Jun'23!
@@ -45,7 +45,7 @@ My work can be partitioned into several research directions, all revolving aroun
 
 # Open positions
 
-* PhD student on scheduling algorithms for quantum computing (formal ad to be published soon)
+* [PhD student on scheduling algorithms, with application in quantum computing/networks](https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/details?jobId=10693&jobTitle=PhD%20position%20in%20Combinatorial%20Optimisation%20for%20Quantum%20Computing)
 * I am always on the look-out for bachelor and master students interested in designing and implementing algorithms for short-term projects (one per week during the semester or a few days a week over the summer break)
 
 # Funded projects
