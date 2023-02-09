@@ -6,6 +6,7 @@ subtitle: Assistant Professor of Computer Science TU Delft (The Netherlands)
 
 # Recent News
 
+* Feb'23: I am happy that two of our papers written with Matthias Horn and Neil Yorke-Smith have been accepted to ICAPS'23! More info will follow.
 * Feb'23: I honoured by the invitation to the "Satisfiability" programme at the Simons Institute for the Theory of Computing at UC Berkeley!
 * Jan'23: I am now permanent (tenure) faculty at TU Delft!
 * Dec'22: My project on scheduling for quantum computing has been accepted as part of a NWO Zwaartekracht (Quantum Software Consortium)! Hiring a PhD student.
