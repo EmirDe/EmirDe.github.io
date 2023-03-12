@@ -93,8 +93,8 @@ My work can be partitioned into several research directions, all revolving aroun
 
 # Master students
 
-* Ana Tatabitovska, Algorithms for MaxSAT, collaboration with Dr. Neil Yorke-Smith
-* Imko Marijnissen, Algorithms for MaxSAT, collaboration with Dr. Neil Yorke-Smith
+* Ana Tatabitovska, Algorithms for MaxSAT
+* Imko Marijnissen, Algorithms for MaxSAT
 * Angelos Zoumis, Analysis of constraint programming algorithms, collaboration with Dr. Neil Yorke-Smith
 * Bob Dorland, scheduling for quantum computing, collaboration with QuTech - Bart van der Vecht and Professor Stephanie Wehner
 * Tim Yue, Decision trees with constraints, collaboration with Loschmidt Laboratories - Dr. Stas Mazurenko
