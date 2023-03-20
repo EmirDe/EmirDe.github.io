@@ -27,7 +27,6 @@ subtitle: Assistant Professor of Computer Science TU Delft (The Netherlands)
 	- [Partial Robustness in Team Formation: Bridging the Gap between Robustness and Resilience](https://www.ifaamas.org/Proceedings/aamas2021/pdfs/p1154.pdf) (AAMAS'21)
 	- [Learning Variable Activity Initialisation for Lazy Clause Generation Solvers](https://link.springer.com/chapter/10.1007/978-3-030-78230-6_4) (CPAIOR'21)
 
-
 # About Me
 
 I work in automated decision-making, focussing on combinatorial optimisation, machine learning, and the integration thereof. My long term vision is to create algorithms that automate any sort of decision making that is currently done by humans, typically referring to scenarios where difficult decision making has to be done in the presence of large and complex constraints.
@@ -48,6 +47,10 @@ My work can be partitioned into several research directions, all revolving aroun
 
 * [PhD student on scheduling algorithms, with application in quantum computing/networks](https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/details?jobId=10693&jobTitle=PhD%20position%20in%20Combinatorial%20Optimisation%20for%20Quantum%20Computing)
 * I am always on the look-out for bachelor and master students interested in designing and implementing algorithms for short-term projects (one per week during the semester or a few days a week over the summer break)
+
+# Office Number
+
+Building 28, 4.E.400
 
 # Funded projects
 
