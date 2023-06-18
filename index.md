@@ -49,9 +49,9 @@ My work can be partitioned into several research directions, all revolving aroun
 * [PhD student on scheduling algorithms, with application in quantum computing/networks](https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/details?jobId=10693&jobTitle=PhD%20position%20in%20Combinatorial%20Optimisation%20for%20Quantum%20Computing)
 * I am always on the look-out for bachelor and master students interested in designing and implementing algorithms for short-term projects (one per week during the semester or a few days a week over the summer break)
 
-# Office Number
+# Office Location
 
-Building 28, 4.E.400
+Van Mourik Broekmanweg 6 2628 XE Delft (Building 28), fourth floor, east side, room 4.E.400
 
 # Funded projects
 
