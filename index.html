@@ -1,5 +1,645 @@
----
-layout: home
-title: Dr. Emir Demirović
-subtitle: Assistant Professor of Computer Science at TU Deflt
----
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, maximum-scale=1">
+<title>Dr. Emir Demirović</title>
+<link rel="icon" href="favicon.png" type="image/png">
+<link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="js/fancybox/jquery.fancybox.css" type="text/css" media="screen" />
+<link href="css/style.css" rel="stylesheet" type="text/css"> 
+<link href="css/font-awesome.css" rel="stylesheet" type="text/css"> 
+<link href="css/animate.css" rel="stylesheet" type="text/css">
+ 
+<!--[if lt IE 9]>
+    <script src="js/respond-1.1.0.min.js"></script>
+    <script src="js/html5shiv.js"></script>
+    <script src="js/html5element.js"></script>
+<![endif]-->
+
+<style>
+
+/* Center website */
+.main {
+  max-width: 1000px;
+  margin: auto;
+}
+
+h1 {
+  font-size: 50px;
+  word-break: break-all;
+}
+
+.row {
+  margin: 10px -16px;
+}
+
+/* Add padding BETWEEN each column */
+.row,
+.row > .column {
+  padding: 8px;
+}
+
+/* Create three equal columns that floats next to each other */
+.column {
+  float: left;
+  display: none; /* Hide all elements by default */
+}
+
+/* Clear floats after rows */ 
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Content */
+.content {
+  background-color: white;
+  padding: 10px;
+}
+
+/* The "show" class is added to the filtered elements */
+.show {
+  display: block;
+}
+
+/* Style the buttons */
+.btn {
+  border: none;
+  outline: none;
+  padding: 12px 16px;
+  background-color: white;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: #ddd;
+}
+
+.btn.active2 {
+  background-color: #666;
+  color: white;
+}
+</style>
+ 
+</head>
+<body>
+ 
+
+<!--Header_section-->
+<header id="header_wrapper">
+  <div class="container">
+    <div class="header_box">
+      <!--<div class="logo"><a href="#">Resume</a></div>-->
+	  <nav class="navbar navbar-inverse" role="navigation">
+      <div class="navbar-header">
+        <button type="button" id="nav-toggle" class="navbar-toggle" data-toggle="collapse" data-target="#main-nav"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+        </div>
+	    <div id="main-nav" class="collapse navbar-collapse navStyle">
+			<ul class="nav navbar-nav" id="mainNav">
+			  <li><a href="#aboutUs" class="active">Home</a></li>
+			  <li><a href="#Portfolio" class="scroll-link">Projects</a></li>
+        <li><a href="#Team" class="scroll-link">Team</a></li>
+        <li><a href="#service" class="scroll-link">Funding</a></li>
+			</ul>
+      </div>
+	 </nav>
+    </div>
+  </div>
+</header>
+<!--Header_section--> 
+
+<section id="aboutUs"><!--Aboutus-->
+<div class="inner_wrapper about-us aboutUs-container fadeInLeft animated wow">
+  <div class="container">
+    <h2>Dr. Emir Demirović</h2>
+	<h6>Assistant Professor of Computer Science, TU Delft, The Netherlands</h6>
+    <div class="inner_section">
+ <div class="row">
+      <div class="col-md-6"> <img class="img-responsive" src="img/emir.jpg" align=""> </div>
+      <div class="col-md-6">        
+        <p>I lead a research group on combinatorial optimisation, where we develop algorithms that can be applied to a wide range of real-world problems. Our techniques are based on Satisfiability solving and constraint programming, with some elements of machine learning. Prior to my appointment at TU Delft, I worked as postdoc at the University of Melbourne (2017-2020), received my PhD from the Vienna University of Technology in 2017, and in between these positions held shorter term posts at a production planning and scheduling company MCP (Vienna, Austria) and the National Institute of Informatics (Toyko, Japan).
+        </p> 
+                 
+        <p>My long term vision is to automate decision making that is currently done by humans, referring to scenarios where difficult decisions need to be made under complex constraints. This not only results in more efficient decision making and resource utilisation, but also relieves human experts of the burden of handling difficult and stressful tasks, leaving them more time to deal with creative and meaningful problems that have not (yet) been automatised.
+        </p>
+
+
+        <p>                 
+          Office: 
+<a href="https://www.google.com/maps/place/Faculty+of+Electrical+Engineering,+Mathematics+and+Computer+Science-+TU+Delft/@51.9991126,4.3780061,20.93z/data=!4m6!3m5!1s0x47c5b58c18aff8cb:0x2573b75b6c953d85!8m2!3d51.9989961!4d4.3780817!16s%2Fg%2F11gfj5rbzx?entry=ttu">4.E.400, Building 28</a>  
+          <br>Email: <a href="e.demirovic@tudelft.nl">e.demirovic@tudelft.nl</a> 
+          <br>Publications: <a href="https://scholar.google.com/citations?hl=en&user=QUhD6A0AAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>
+        </p>
+
+
+									<ul class="about-us-list">
+										<li class="points">Would you like to do your master thesis in our group? Get in touch!</li>                     
+									</ul><!-- /.about-us-list -->
+								 
+      </div>
+    </div>
+	     </div>
+  </div> 
+  </div>
+</section>
+<!--Aboutus--> 
+
+  
+
+<!-- Portfolio -->
+<section id="Portfolio" class="content"> 
+  
+  <!-- Container -->
+  <div class="container portfolio_title"> 
+    
+    <!-- Title -->
+    <div class="section-title">
+      <h2>Projects</h2>
+	<h6>We work on both fundamental and applied research, and collaborate with civil engineering, QuTech, and industry.</h6>
+	  
+    </div>
+    <!--/Title --> 
+    
+  </div>
+  <!-- Container -->
+  
+  <div class="portfolio-top"></div>
+  
+  <!-- Portfolio Filters -->
+  <div class="portfolio"> 
+    
+    <div id="filters" class="sixteen columns">
+      <ul class="clearfix">
+        <li><a id="all" href="#" data-filter=".active" class="active">
+          <h5>Projects with active funding</h5>
+          </a></li>
+        <li><a class="" href="#" data-filter=".passive">
+          <h5>Projects with reduced capacity</h5>
+          </a></li>        
+      </ul>
+    </div>
+    <!--/Portfolio Filters --> 
+    
+    <!-- Portfolio Wrapper -->
+    <div class="isotope fadeInLeft animated wow grid" style="position: relative; overflow: hidden; height: 480px;" id="portfolio_wrapper">  
+      <!-- Portfolio Item -->
+      <figure style="position: absolute; left: 0px; top: 0px; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1); width: 337px; opacity: 1;" class="portfolio-item one-four   active isotope-item effect-oscar">
+	   
+        <div class="portfolio_img"> 
+		<img src="img/portfolio_black.jpg" > </div> 
+			<figcaption>		
+				<div>
+				  <!-- <a href="http:\\www.google.com" class="fancybox"> -->
+					<h2>Data Science</h2> 
+          <p>specialised combinatorial optimisation algorithms for trustworthy machine learning, focussing on decision trees</p>                
+				  </a>
+				</div>
+			</figcaption>
+        </figure>
+      <!--/Portfolio Item --> 
+      
+      <!-- Portfolio Item-->
+      <figure style="position: absolute; left: 0px; top: 0px; transform: translate3d(337px, 0px, 0px) scale3d(1, 1, 1); width: 337px; opacity: 1;" class="portfolio-item one-four  active isotope-item effect-oscar">
+        <div class="portfolio_img"> <img src="img/portfolio_black.jpg" alt="Portfolio 1"> </div>
+        	<figcaption>		
+				<div>
+					<h2>SAT/CP</span></h2>
+          <p>general-purpose optimisation techniques based on propositional logic and constraint programming</p>							
+				  </a>
+				</div>
+			</figcaption>
+        </figure>
+      <!--/Portfolio Item --> 
+      
+      <!-- Portfolio Item -->
+      <figure style="position: absolute; left: 0px; top: 0px; transform: translate3d(674px, 0px, 0px) scale3d(1, 1, 1); width: 337px; opacity: 1;" class="portfolio-item one-four  active  isotope-item effect-oscar">
+        <div class="portfolio_img"> <img src="img/portfolio_black.jpg" alt="Portfolio 1"> </div>
+       <figcaption>		
+				<div>
+					<h2>Explainability</span></h2>
+							<p>methods that can provide human-understandable explanations in addition to good performance</p>
+				  </a>
+				</div>
+			</figcaption>
+        </figure>
+      <!--/Portfolio Item--> 
+
+      <!-- Portfolio Item -->
+      <figure style="position: absolute; left: 0px; top: 0px; transform: translate3d(674px, 0px, 0px) scale3d(1, 1, 1); width: 337px; opacity: 1;" class="portfolio-item one-four  active  isotope-item effect-oscar">
+        <div class="portfolio_img"> <img src="img/portfolio_black.jpg" alt="Portfolio 1"> </div>
+       <figcaption>   
+        <div>
+          <h2>Applications</span></h2>
+          <p>solving real-world problems such as timetabling, scheduling, and production planning</p>              
+          </a>
+        </div>
+      </figcaption>
+        </figure>
+      <!--/Portfolio Item--> 
+      
+      <!-- Portfolio Item -->
+      <figure style="position: absolute; left: 0px; top: 0px; transform: translate3d(0px, 240px, 0px) scale3d(1, 1, 1); width: 337px; opacity: 1;" class="portfolio-item one-four  passive isotope-item effect-oscar">
+        <div class="portfolio_img"> <img src="img/portfolio_black.jpg" alt="Portfolio 1"> </div>
+       <figcaption>		
+				<div>
+					<h2>Integration with Machine Learning</h2>
+          <p>end-to-end learning with combinatorial problems (predict+optimise)</p>							
+				  </a>
+				</div>
+			</figcaption>
+      </figure>
+      <!--/Portfolio Item --> 
+
+      <!-- Portfolio Item-->
+      <figure style="position: absolute; left: 0px; top: 0px; transform: translate3d(1011px, 0px, 0px) scale3d(1, 1, 1); width: 337px; opacity: 1;" class="portfolio-item one-four  passive  nature web isotope-item effect-oscar">
+        <div class="portfolio_img"> <img src="img/portfolio_black.jpg" alt="Portfolio 1"> </div>
+         <figcaption>   
+        <div>
+          <h2>Robust and<br>Bi-Objective</h2>
+              <p>theory and algorithms beyond conventional optimisation</p>
+          </a>
+        </div>
+      </figcaption>
+      </figure>
+      <!-- Portfolio Item --> 
+      
+      <!-- Portfolio Item -->
+      <figure style="position: absolute; left: 0px; top: 0px; transform: translate3d(337px, 240px, 0px) scale3d(1, 1, 1); width: 337px; opacity: 1;" class="portfolio-item one-four  web isotope-item effect-oscar">
+        <div class="portfolio_img"> <img src="img/portfolio_pic6.jpg" alt="Portfolio 1"> </div>
+       <figcaption>		
+				<div>
+				  <a href="img/portfolio_pic6.jpg" class="fancybox"> 
+					<h2>Warm <span>Oscar</span></h2>
+							<p>Oscar is a decent man. He used to clean porches with pleasure.</p>
+				  </a>
+				</div>
+			</figcaption>
+      </figure>
+      <!--/Portfolio Item --> 
+      
+      <!-- Portfolio Item  -->
+      <figure style="position: absolute; left: 0px; top: 0px; transform: translate3d(674px, 240px, 0px) scale3d(1, 1, 1); width: 337px; opacity: 1;" class="portfolio-item one-four  wildlife web isotope-item effect-oscar">
+        <div class="portfolio_img"> <img src="img/portfolio_pic7.jpg" alt="Portfolio 1"> </div>       
+       <figcaption>		
+				<div>
+				  <a href="img/portfolio_pic7.jpg" class="fancybox"> 
+					<h2>Warm <span>Oscar</span></h2>
+							<p>Oscar is a decent man. He used to clean porches with pleasure.</p>
+				  </a>
+				</div>
+			</figcaption>
+       </figure>
+      <!--/Portfolio Item --> 
+      
+      <!-- Portfolio Item -->
+      <figure style="position: absolute; left: 0px; top: 0px; transform: translate3d(1011px, 240px, 0px) scale3d(1, 1, 1); width: 337px; opacity: 1;" class="portfolio-item one-four   citylife isotope-item effect-oscar">
+        <div class="portfolio_img"> <img src="img/portfolio_pic8.jpg" alt="Portfolio 1"> </div>       
+      <figcaption>		
+				<div>
+				  <a href="img/portfolio_pic8.jpg" class="fancybox"> 
+					<h2>Warm <span>Oscar</span></h2>
+							<p>Oscar is a decent man. He used to clean porches with pleasure.</p>
+				  </a>
+				</div>
+			</figcaption>
+        </figure>
+      <!--/Portfolio Item --> 
+      
+    </div>
+    <!--/Portfolio Wrapper --> 
+    
+  </div>
+  <!--/Portfolio Filters -->
+  
+  <div class="portfolio_btm"></div>
+  
+  
+  <div id="project_container">
+    <div class="clear"></div>
+    <div id="project_data"></div>
+  </div>
+ 
+  
+</section>
+<!--/Portfolio --> 
+
+
+<!-- Team -->
+<section id="Team" class="content"> 
+ <h2>TEAM</h2>
+<div id="myBtnContainer">
+  <button class="btn active2" onclick="filterSelection('ppp')">PhDs/Postdocs</button>
+  <button class="btn" onclick="filterSelection('student')">MSc/BSc Students</button>  
+  <button class="btn" onclick="filterSelection('alumni-3p')">Alumni (PhDs/Postdocs)</button>  
+  <button class="btn" onclick="filterSelection('alumni-s')">Alumni (MSc/BSc Students)</button>
+</div>
+
+<!-- Portfolio Gallery Grid -->
+<div class="row">
+  <div class="column ppp">
+    <div class="content">
+      <img src="img/jeff.jpg" alt="picture of Jeff Smits" width="200" height="300">
+      <h4>Jeff Smits</h4>
+      <p>Research Software Engineer</p>
+    </div>
+  </div>
+  <div class="column ppp">
+    <div class="content">
+      <img src="img/Koos.jpg" alt="picture of Koos van der Linden" width="200" height="300">
+      <h4>Koos van der Linden</h4>
+      <p>PhD candidate, optimal decision trees</p>
+    </div>
+  </div>
+  <div class="column ppp">
+    <div class="content">
+      <img src="img/user-icon.jpg" alt="generic user pic" width="200" height="300">
+      <h4>Maarten Flippo</h4>
+      <p>PhD candidate, constraint programming</p>
+    </div>
+  </div>
+  <div class="column ppp">
+    <div class="content">
+      <img src="img/user-icon.jpg" alt="generic user pic" width="200" height="300">
+      <h4>Elif Arslan</h4>
+      <p>PhD candidate, ride-sharing, forecasting</p>
+    </div>
+  </div>
+  <div class="column ppp">
+    <div class="content">
+      <img src="img/user-icon.jpg" alt="generic user pic" width="200" height="300">
+      <h4>Konstantin Sidorov</h4>
+      <p>PhD candidate, explainable <br>combinatorial optimisation</p>
+    </div>
+  </div> 
+  <div class="column ppp">
+    <div class="content">
+      <img src="img/user-icon.jpg" alt="generic user pic" width="200" height="300">
+      <h4>Imko Marijnissen </h4>
+      <p>PhD candidate, scheduling for quantum</p>
+    </div>
+  </div> 
+  <div class="column alumni-3p">
+    <div class="content">
+      <img src="img/horn.jpg" alt="picture of Matthias Horn" width="200" height="200">
+      <h4>Matthias Horn</h4>
+      <p>Postdoc (2022), scheduling</p>
+    </div>
+  </div>
+
+  <div class="column student">
+    <div class="content">
+      <img src="img/user-icon.jpg" width="200" height="300">
+      <h4>Ana Tatabitovska</h4>
+      <p>MaxSAT</p>
+    </div>
+  </div> 
+
+
+<div class="column alumni-s">
+    <div class="content">
+      <img src="img/user-icon.jpg"  width="200" height="300">
+      <h4>Imko Marijnissen</h4>
+      <p>MaxSAT, now PhD student</p>
+    </div>
+  </div>
+
+
+  <div class="column alumni-s">
+    <div class="content">
+      <img src="img/user-icon.jpg"  width="200" height="300">
+      <h4>Angelos Zoumis</h4>
+      <p>Constraint Programming</p>
+    </div>
+  </div>
+
+  <div class="column alumni-s">
+    <div class="content">
+      <img src="img/user-icon.jpg"  width="200" height="300">
+      <h4>Bob Dorland</h4>
+      <p>Scheduling for Quantum Computers</p>
+    </div>
+  </div>
+
+  <div class="column alumni-s">
+    <div class="content">
+      <img src="img/user-icon.jpg"  width="200" height="300">
+      <h4>Heqi Wang</h4>
+      <p>Traffic Predictions</p>
+    </div>
+  </div>
+
+  <div class="column alumni-s">
+    <div class="content">
+      <img src="img/user-icon.jpg"  width="200" height="300">
+      <h4>Jeroen van Dijk</h4>
+      <p>SAT for Multi-Agent Path Finding</p>
+    </div>
+  </div>
+
+  <div class="column alumni-s">
+    <div class="content">
+      <img src="img/user-icon.jpg"  width="200" height="300">
+      <h4>Thomas Bos</h4>
+      <p>Explainable Predictive Maintainance</p>
+    </div>
+  </div>
+
+  <div class="column alumni-s">
+    <div class="content">
+      <img src="img/user-icon.jpg"  width="200" height="300">
+      <h4>Isha Dijcks</h4>
+      <p>Automating Puzzle Generation</p>
+    </div>
+  </div>
+
+  <div class="column alumni-s">
+    <div class="content">
+      <img src="img/user-icon.jpg"  width="200" height="300">
+      <h4>Andrea Nardi</h4>
+      <p>Graph Theory</p>
+    </div>
+  </div>
+
+  <div class="column alumni-s">
+    <div class="content">
+      <img src="img/user-icon.jpg"  width="200" height="300">
+      <h4>Zhiyi Chen</h4>
+      <p>(BSc honours) Algorithm Selection</p>
+    </div>
+  </div>
+
+<div class="column alumni-s">
+    <div class="content">
+      <img src="img/user-icon.jpg"  width="200" height="300">
+      <h4>Sander Waij</h4>
+      <p>Multi-Agent Path Finding</p>
+    </div>
+  </div>
+
+  <div class="column alumni-s">
+    <div class="content">
+      <img src="img/user-icon.jpg"  width="200" height="300">
+      <h4>Yorick de Vries</h4>
+      <p>Reinforcement Learning for Logistics</p>
+    </div>
+  </div>
+
+  <div class="column alumni-s">
+    <div class="content">
+      <img src="img/user-icon.jpg"  width="200" height="300">
+      <h4>Maxim Marchal</h4>
+      <p>MaxSAT for Correlation Clustering</p>
+    </div>
+  </div>
+
+  <div class="column alumni-s">
+    <div class="content">
+      <img src="img/user-icon.jpg"  width="200" height="300">
+      <h4>Jens Langerak</h4>
+      <p>MaxSAT</p>
+    </div>
+  </div>
+
+  <div class="column alumni-s">
+    <div class="content">
+      <img src="img/user-icon.jpg"  width="200" height="300">
+      <h4>Max Ligtenberg</h4>
+      <p>Predictions for Intensive Care</p>
+    </div>
+  </div>
+
+  <div class="column alumni-s">
+    <div class="content">
+      <img src="img/user-icon.jpg"  width="200" height="300">
+      <h4>Bhavishya Palavali</h4>
+      <p>Algorithm Selection</p>
+    </div>
+  </div>
+
+
+
+  
+  </div>
+<!-- END GRID -->
+</div> 
+</section>
+<!--/Portfolio --> 
+
+
+<!--Service-->
+<section  id="service">
+  <div class="container">
+    <h2>Funding</h2>
+  <h6></h6>
+    <div class="service_wrapper">
+      <div class="row">
+        <div class="col-md-3">
+
+
+    <div class="service_icon delay-03s animated wow  zoomIn">  <img src="img/NWO-logo huisstijlsite.png"> </div>
+          <div class="service_block">
+            <h3 class="animated fadeInUp wow">&nbsp;</h3>
+            <h3 class="animated fadeInUp wow">Dutch national funding agency</h3>            
+          </div>
+        </div>
+        <div class="col-md-3"> 
+    <div class="service_icon icon2  delay-03s animated wow zoomIn"> <img src="img/XAIT_lab.png" > </div> 
+    <div class="service_block">
+            <h3 class="animated fadeInUp wow">&nbsp;</h3>
+            <h3 class="animated fadeInUp wow">Delft AI Labs</h3>
+          </div>
+        </div>
+        <div class="col-md-3">
+    <div class="service_icon icon2  delay-03s animated wow zoomIn"> <img src="img/TUDelft_logo_white.png"> </div>
+          <div class="service_block">
+            
+            <h3 class="animated fadeInUp wow">&nbsp;</h3>
+            <h3 class="animated fadeInUp wow">TU Delft</h3>
+          </div>
+        </div>
+      <div class="col-md-3">
+    <div class="service_icon icon3  delay-03s animated wow zoomIn"> <img src="img/voestalpine.jpeg"> </div>
+          <div class="service_block">
+            
+            <h3 class="animated fadeInUp wow">&nbsp;</h3>
+            <h3 class="animated fadeInUp wow">VoestAlpine</h3>
+          </div>
+        </div>
+      </div> 
+   
+    </div>
+  </div>
+</section>
+<!--Service-->
+
+
+
+<script>
+filterSelection("ppp")
+function filterSelection(c) {
+  var x, i;
+  x = document.getElementsByClassName("column");
+  if (c == "all") c = "";
+  for (i = 0; i < x.length; i++) {
+    w3RemoveClass(x[i], "show");
+    if (x[i].className.indexOf(c) > -1) w3AddClass(x[i], "show");
+  }
+}
+
+function w3AddClass(element, name) {
+  var i, arr1, arr2;
+  arr1 = element.className.split(" ");
+  arr2 = name.split(" ");
+  for (i = 0; i < arr2.length; i++) {
+    if (arr1.indexOf(arr2[i]) == -1) {element.className += " " + arr2[i];}
+  }
+}
+
+function w3RemoveClass(element, name) {
+  var i, arr1, arr2;
+  arr1 = element.className.split(" ");
+  arr2 = name.split(" ");
+  for (i = 0; i < arr2.length; i++) {
+    while (arr1.indexOf(arr2[i]) > -1) {
+      arr1.splice(arr1.indexOf(arr2[i]), 1);     
+    }
+  }
+  element.className = arr1.join(" ");
+}
+
+
+// Add active class to the current button (highlight it)
+var btnContainer = document.getElementById("myBtnContainer");
+var btns = btnContainer.getElementsByClassName("btn");
+for (var i = 0; i < btns.length; i++) {
+  btns[i].addEventListener("click", function(){
+    var current = document.getElementsByClassName("active2");
+    current[0].className = current[0].className.replace(" active2", "");
+    this.className += " active2";
+  });
+}
+
+
+</script>
+
+<!--Footer-->
+<footer class="footer_wrapper" id="contact">
+  <div class="container">
+    <div class="footer_bottom"><span>Copyright © reserved, baseline template by <a href="http://webthemez.com">WebThemez.com</a>. </span> </div>
+  </div>
+</footer>
+
+<script type="text/javascript" src="js/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" src="js/bootstrap.min.js"></script>
+<script type="text/javascript" src="js/jquery-scrolltofixed.js"></script>
+<script type="text/javascript" src="js/jquery.nav.js"></script> 
+<script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="js/jquery.isotope.js"></script>
+<script src="js/fancybox/jquery.fancybox.pack.js" type="text/javascript"></script> 
+<script type="text/javascript" src="js/wow.js"></script> 
+<script type="text/javascript" src="js/custom.js"></script>
+
+</body>
+</html>
